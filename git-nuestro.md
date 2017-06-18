@@ -1,4 +1,4 @@
-
+# Cuando las cosas se ponen feas esta es tu oración:
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
