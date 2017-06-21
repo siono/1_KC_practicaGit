@@ -16,7 +16,7 @@
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 
-  No se mergea ya que la rama master es la rama por defecto.
+  No. Porque no hubo ningun commit en master mientras estaba en styled.
 
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 
