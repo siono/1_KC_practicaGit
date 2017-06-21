@@ -24,7 +24,7 @@
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 
-  No causó ningun conflicto porque lo que se mergeo era el mismo contenido y añadidos elementos htmls.
+  No causó ningun conflicto. Se realizo un merge fast-forward lo que equivale a que el puntero de master pase a apuntar al commit que esta apuntando la rama styled.
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
 
